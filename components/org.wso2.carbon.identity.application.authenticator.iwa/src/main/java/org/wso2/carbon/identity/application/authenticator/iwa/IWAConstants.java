@@ -39,6 +39,10 @@ public class IWAConstants {
     public static final String SECURITY_FILTER_PROVIDERS = "securityFilterProviders";
     public static final String AUTH_PROVIDER = "authProvider";
 
+    public static final String SPN_NAME = "SPNName";
+    public static final String USER_STORE_DOMAINS = "UserStoreDomains";
+    public static final String SPN_PASSWORD = "SPNPassword";
+
     private IWAConstants() {
     }
 }
